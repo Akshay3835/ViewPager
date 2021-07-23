@@ -1,0 +1,2 @@
+com/example/viewpager/BuildConfig.java
+ com.example.viewpager.BuildConfig
