@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/first_fragment_menu"
+        android:icon="@drawable/home"
+        android:title="Home Fragment"/>
+
+    <item android:id="@+id/fragment_menu_sports"
+        android:icon="@drawable/sports"
+        android:title="Sports Fragment"/>
+
+    <item android:id="@+id/fragment_menu_jobs"
+        android:icon="@drawable/emoji_people"
+        android:title="Jobs Fragment"/>
+
+    <item android:id="@+id/fragment_menu_movies"
+        android:icon="@drawable/movie"
+        android:title="Movies Fragment"/>
+
+</menu>

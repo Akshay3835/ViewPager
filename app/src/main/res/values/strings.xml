@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="main_fragment">Every other high-school football player in America was dying for Lemming to invite him to play in the U.S. Army All-American Bowl. Michael Oher had left his invitation on the table…</string>
+    <string name="sports_fragment">BasketballWe Are Grown Men Playing a Child Gameby Gilbert RoginThe bearded man laughing at his daughter is Bill Russell, the most remarkable basketball player of our time. Sport, however, is one of his lesser interests. Here are his trenchant, often angry observations on today Negro-white crisis and his role in it</string>
+    <string name="movie_fragment">Triumph Of The Swoosh by Donald Katz With a keen sense of the power of sports and a genius for mythologizing athletes to help sell sneakers, Nike bestrides the world of sport like a marketing colossus</string>
+    <string name="job_fragment">But You’re Not Thinking Enough About What Makes Sense for You and Your Team
+    It’s natural to take work habits from previous jobs and assume they’ll work at this new place. I’ve made this assumption more than I’d like to admit. However, whenever you start a new job</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="action_exit">Exit</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
